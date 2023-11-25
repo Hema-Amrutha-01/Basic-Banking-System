@@ -1,0 +1,86 @@
+body{
+    background-color: white;
+}
+nav{
+     background-color:#D2D0FE;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: normal;
+     font-weight: bold;
+}
+.nav-item {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg{
+    background-color: white;
+}
+.type{
+    color:#543864;
+    text-align: center;
+    font-size: 50px;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #e1580f,
+					#df209f, #7b046f, #2c80b4);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+}
+.services{
+    padding-top:100px;
+}
+.head-service{
+    color:#e1580f;
+}
+.column{
+    padding-top:180px;
+}
+.card-header img{
+    height:300px;
+    width:300px;
+}
+.card-header .cards{
+    height:350px;
+    width:350px;
+}
+#register{
+    padding-top:100px;
+    color:#ba1488;
+    line-height: 1;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    font-weight:normal;
+}
+.intro{
+    padding-top: 180px;
+    color:#1399d2;
+    font-weight:bold;
+}
+
+.intro a{
+    color:#1399d2;
+    font-weight:bold;
+    line-height:1;
+}
+.user{
+    padding-top:200px;
+}
+.register{
+    padding-top:120px;
+}
+.opt{
+    background-color: #D2D0FE;
+}
+
+.options{
+    padding-top:100px;
+}
+.options li  a:link{
+    line-height: 3;
+    color:black;
+    text-decoration: none;
+    
+}
+.options a{
+    color:black;
+}
